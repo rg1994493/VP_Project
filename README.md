@@ -10,7 +10,8 @@
 KITTI-Road/Lane Detection Evaluation 2013
 
 ### Code: 
-The code presented here is a Google Colab notebook, to run it enter the folder "Road_Lane_Detection(finalVersion)", this contains the final working version of the project. Besides that:
-- Make sure that you have the images of the dataset uploaded in your drive, as well as the Colab notebook with the models.
+The code presented here is a Google Colab notebook, to run it enter the folder "Road_Lane_Detection(finalVersion)", and download its content (this contains the final working version of the project):
+- Download the dataset in https://www.kaggle.com/datasets/tryingit/roadlane-detection-evaluation-2013?datasetId=145470 
+- Upload the images of the dataset in your drive, as well as the Colab notebook with the models of this Github
 - Run the notebook step by step
 - If you want to try the models already saved, skip the training segments and go directly to the "load model" part and follow the instructions.
